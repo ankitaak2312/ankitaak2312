@@ -93,5 +93,5 @@ Multi-client TCP chat with `select()`-based multiplexing, custom application-lay
 📧 ankita.kumari.24031@iitgoa.ac.in · 📍 IIT Goa
 
 <div align="center">
-<sub>Club Head, Qalam — Literary Club of IIT Goa</sub>
+
 </div>
