@@ -5,9 +5,9 @@
 **CS @ IIT Goa · Full-Stack · Competitive Programmer · Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-k-17b375332/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ankita-kumari-24031)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ankitaak2312/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/ankitaak2312/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ankMark)
 
 </div>
 
@@ -49,7 +49,7 @@ Third-year CSE undergrad at **IIT Goa** (CGPA: 8.48), building real systems at t
 
 ### 🚀 Featured Projects
 
-#### [EventFlow](https://github.com/) — AI-Assisted Hackathon Management Platform
+#### [EventFlow](https://github.com/ankitaak2312/WiseTInnovateX) — AI-Assisted Hackathon Management Platform
 > FastAPI · React · SQLAlchemy · Redis · Celery · WebSockets
 
 Full-stack event platform with committee, judge, mentor, and participant portals. Built a tri-layer AI fallback pipeline (Gemini → Groq → deterministic), cut LLM API usage by ~90% via template-driven personalization, and implemented real-time sync using native WebSockets.
@@ -58,7 +58,7 @@ Full-stack event platform with committee, judge, mentor, and participant portals
 
 ---
 
-#### [ChatCrypt](https://github.com/) — Secure AI-Moderated Chat System
+#### [ChatCrypt](https://github.com/ankitaak2312/ChatCrypt) — Secure AI-Moderated Chat System
 > C++ · Python · TCP Sockets · Flask · HuggingFace · Scikit-learn
 
 Multi-client TCP chat with `select()`-based multiplexing, custom application-layer protocol, and an interoperable Python ML service for transformer-based sentiment analysis and TF-IDF + Naive Bayes spam detection.
@@ -81,8 +81,8 @@ Multi-client TCP chat with `select()`-based multiplexing, custom application-lay
 
 <div align="center">
 
-![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitaak2312&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaak2312&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
