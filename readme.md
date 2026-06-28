@@ -45,37 +45,7 @@ Third-year CSE undergrad at **IIT Goa** (CGPA: 8.48), building real systems at t
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
----
 
-### 🚀 Featured Projects
-
-#### [EventFlow](https://github.com/ankitaak2312/WiseTInnovateX) — AI-Assisted Hackathon Management Platform
-> FastAPI · React · SQLAlchemy · Redis · Celery · WebSockets
-
-Full-stack event platform with committee, judge, mentor, and participant portals. Built a tri-layer AI fallback pipeline (Gemini → Groq → deterministic), cut LLM API usage by ~90% via template-driven personalization, and implemented real-time sync using native WebSockets.
-
-**🏆 Top 7 Finalist — Texas Instruments WiSE Hackathon**
-
----
-
-#### [ChatCrypt](https://github.com/ankitaak2312/ChatCrypt) — Secure AI-Moderated Chat System
-> C++ · Python · TCP Sockets · Flask · HuggingFace · Scikit-learn
-
-Multi-client TCP chat with `select()`-based multiplexing, custom application-layer protocol, and an interoperable Python ML service for transformer-based sentiment analysis and TF-IDF + Naive Bayes spam detection.
-
----
-
-### 🏆 Achievements
-
-| Achievement | Details |
-|---|---|
-| 🥇 TI WiSE Hackathon Finalist | Top 7 nationally |
-| 🥈 Flipkart Grid 7.0 | National Semi-Finalist |
-| 🥈 WIT NXP 2025 | Top 150 of 18,000 candidates |
-| 📐 INMO Qualified | 2020, 2021, 2022 |
-| 🎯 Consult Quest Finalist | SARCathon, IIT Bombay |
-
----
 
 ### 📊 GitHub Stats
 
