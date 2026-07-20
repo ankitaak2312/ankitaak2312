@@ -20,17 +20,24 @@ I build things — sometimes systems, sometimes sentences.
 
 <br />
 
-### Around here
+### Stack
 
-- `ChatCrypt` — a C++ TCP chat system with a Python/Flask moderation layer
-- `EventFlow` — a hackathon management platform
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,fastapi,flask,react,redis,git,github,vercel" />
 
+<sub>give me a day, I'll learn most of it</sub>
+
+<br />
+<br />
+
+### Somewhere in between
+
+`1862` LeetCode · `1351` Codeforces
 
 <br />
 
 ### Elsewhere
 
-[Codeforces](https://codeforces.com/profile/ankMark) · [LeetCode](https://leetcode.com/ankitaak2312) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/ankitaak2312)
+[LinkedIn](https://linkedin.com/in/ankita-k-17b375332) · [Codeforces](https://codeforces.com/profile/ankMark) · [LeetCode](https://leetcode.com/ankitaak2312) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/ankitaak2312)
 
 <br />
 
