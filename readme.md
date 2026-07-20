@@ -30,7 +30,7 @@ I build things — sometimes systems, sometimes sentences.
 
 ### Elsewhere
 
-Codeforces `ankMark` · LeetCode `ankitaak2312` · GeeksforGeeks `ankitaak2312`
+[Codeforces](https://codeforces.com/profile/ankMark) · [LeetCode](https://leetcode.com/ankitaak2312) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/ankitaak2312)
 
 <br />
 
