@@ -15,8 +15,7 @@ Computer Science & Engineering · IIT Goa
 I build things — sometimes systems, sometimes sentences.
 
 - Currently in my third year of CSE at IIT Goa
-- Lead **Qalam**, IIT Goa's literary club
-- Also run at the Inter-IIT Sports Meet, because sitting still isn't really my thing
+- Currently exploring backend development, modern web technologies, and AI.
 
 <br />
 
@@ -24,7 +23,7 @@ I build things — sometimes systems, sometimes sentences.
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,fastapi,flask,react,redis,git,github,vercel" />
 
-<sub>give me a day, I'll learn most of it not mentioned too</sub>
+<sub>The stack changes. Curiosity doesn't.</sub>
 
 <br />
 <br />
@@ -43,4 +42,5 @@ I build things — sometimes systems, sometimes sentences.
 
 <div align="center">
 <sub>still figuring most of this out</sub>
+<sub>git commit -m "it works"</sub>
 </div>
