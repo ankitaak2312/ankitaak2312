@@ -41,7 +41,7 @@ I build things — sometimes systems, sometimes sentences.
 <br />
 
 <div align="center">
-<sub>still figuring most of this out</sub></div><br/>
+<sub>still figuring most of this out</sub></div>
 <div align="center">
 <sub>git commit -m "it works"</sub></div>
 </div>
