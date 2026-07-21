@@ -15,7 +15,7 @@ Computer Science & Engineering · IIT Goa
 I build things — sometimes systems, sometimes sentences.
 
 - Currently in my third year of CSE at IIT Goa
-- Currently exploring backend development, modern web technologies, and AI.
+- Exploring backend development, modern web technologies, and AI.
 
 <br />
 
@@ -25,7 +25,7 @@ I build things — sometimes systems, sometimes sentences.
 
 <sub>The stack changes. Curiosity doesn't.</sub>
 
-<br />
+
 <br />
 
 ### Somewhere in between
@@ -41,6 +41,6 @@ I build things — sometimes systems, sometimes sentences.
 <br />
 
 <div align="center">
-<sub>still figuring most of this out</sub>
+<sub>still figuring most of this out</sub></div><br/>
 <sub>git commit -m "it works"</sub>
 </div>
