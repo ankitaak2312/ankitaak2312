@@ -24,7 +24,7 @@ I build things — sometimes systems, sometimes sentences.
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,fastapi,flask,react,redis,git,github,vercel" />
 
-<sub>give me a day, I'll learn most of it</sub>
+<sub>give me a day, I'll learn most of it not mentioned too</sub>
 
 <br />
 <br />
